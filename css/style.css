@@ -93,7 +93,7 @@
 /* ------------- testimonial------------------ */
 
 #testimonials{
-    background: url(../images/dark.jpg) no-repeat;
+    background: url('../images/dark.jpg') no-repeat;
     background-size: cover;
     /* padding: 40px 0px; */
     color: #fff;
